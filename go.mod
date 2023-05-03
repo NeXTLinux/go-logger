@@ -1,4 +1,4 @@
-module github.com/nextlinux/gologger
+module github.com/nextlinux/go-logger
 
 go 1.17
 
