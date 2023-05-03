@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/google/uuid v1.3.0
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
+	github.com/nextlinux/gologger v1.0.1
 	github.com/scylladb/go-set v1.0.2
 	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.2
