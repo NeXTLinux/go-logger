@@ -3,7 +3,7 @@ package logrus
 import (
 	"github.com/sirupsen/logrus"
 
-	iface "github.com/nextlinux/gologger"
+	iface "github.com/nextlinux/go-logger"
 )
 
 var _ iface.Logger = (*nestedLogger)(nil)

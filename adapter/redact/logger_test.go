@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	logger "github.com/nextlinux/gologger"
-	"github.com/nextlinux/gologger/adapter/logrus"
+	logger "github.com/nextlinux/go-logger"
+	"github.com/nextlinux/go-logger/adapter/logrus"
 )
 
 func Test_RedactingLogger(t *testing.T) {

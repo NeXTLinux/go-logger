@@ -3,7 +3,7 @@ package discard
 import (
 	"io"
 
-	iface "github.com/nextlinux/gologger"
+	iface "github.com/nextlinux/go-logger"
 )
 
 var _ iface.Logger = (*logger)(nil)
